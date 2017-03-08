@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Discovery">0145b771c32312007bf1bea192d3ae1d</content>
+        <effective_weight>1</effective_weight>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="">undefined</related_log_entry>
+        <status>0</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-02-17 14:40:10</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1b196574138172405a2376d66144b053</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>0</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>gsw_status_of_content_1b196574138172405a2376d66144b053</sys_update_name>
+        <sys_updated_by>AdminLes</sys_updated_by>
+        <sys_updated_on>2017-02-17 14:40:10</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>

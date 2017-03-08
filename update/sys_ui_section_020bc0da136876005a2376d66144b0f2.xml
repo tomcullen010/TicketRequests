@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="020bc0da136876005a2376d66144b0f2" sys_domain="global" table="x_daw_ticket_offic_ticket_office" version="3" view="sys_ref_list">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>082b481e136876005a2376d66144b073</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>882b481e136876005a2376d66144b073</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>2</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>0c2b481e136876005a2376d66144b073</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>8c2b481e136876005a2376d66144b073</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>002b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>802b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>042b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>7</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>842b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>082b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>882b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>0c2b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>11</position>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:09:01</sys_created_on>
+            <sys_id>8c2b481e136876005a2376d66144b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="a84ae231d13030005e0e62d7cf025b0d">020bc0da136876005a2376d66144b0f2</sys_ui_section>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:09:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_daw_ticket_offic_ticket_office</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>AdminLes</sys_created_by>
+            <sys_created_on>2017-01-28 03:08:36</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>020bc0da136876005a2376d66144b0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_daw_ticket_offic_ticket_office</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+            <sys_update_name>sys_ui_section_020bc0da136876005a2376d66144b0f2</sys_update_name>
+            <sys_updated_by>AdminLes</sys_updated_by>
+            <sys_updated_on>2017-01-28 03:08:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Reference List" name="sys_ref_list">a84ae231d13030005e0e62d7cf025b0d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

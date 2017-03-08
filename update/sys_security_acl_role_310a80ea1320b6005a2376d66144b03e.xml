@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-01-28 21:42:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>310a80ea1320b6005a2376d66144b03e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_daw_ticket_offic_att_events.x_daw_ticket_offic.att_events_user</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_security_acl display_value="x_daw_ticket_offic_att_events">a90a80ea1320b6005a2376d66144b03a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_310a80ea1320b6005a2376d66144b03e</sys_update_name>
+        <sys_updated_by>AdminLes</sys_updated_by>
+        <sys_updated_on>2017-01-28 21:42:42</sys_updated_on>
+        <sys_user_role display_value="x_daw_ticket_offic.att_events_user" name="x_daw_ticket_offic.att_events_user">610a00ea1320b6005a2376d66144b00e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

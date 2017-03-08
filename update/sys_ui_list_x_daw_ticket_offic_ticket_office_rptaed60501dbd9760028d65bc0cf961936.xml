@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_daw_ticket_offic_ticket_office" version="2" view="RPTaed60501dbd9760028d65bc0cf961936">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>53ac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>event_name</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>d3ac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>57ac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_stage</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>d7ac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>5bac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>dbac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>5fac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_daw_ticket_offic_ticket_office" element="NULL" name="x_daw_ticket_offic_ticket_office" parent="NULL" relationship="NULL" sys_domain="global" view="ead60501dbd9760028d65bc0cf96193a">9bac6e1adb913a0028d65bc0cf9619ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_id>dfac6e1adb913a0028d65bc0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_daw_ticket_offic_ticket_office</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-03-06 21:41:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>9bac6e1adb913a0028d65bc0cf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_daw_ticket_offic_ticket_office</sys_name>
+            <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+            <sys_update_name>sys_ui_list_x_daw_ticket_offic_ticket_office_RPTaed60501dbd9760028d65bc0cf961936</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-03-06 21:41:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptaed60501dbd9760028d65bc0cf961936" name="RPTaed60501dbd9760028d65bc0cf961936">ead60501dbd9760028d65bc0cf96193a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_question">
+    <sc_ic_question action="INSERT_OR_UPDATE">
+        <base_type>6</base_type>
+        <cost>0</cost>
+        <default_value/>
+        <help_text/>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>credit_card_01</name>
+        <order>1</order>
+        <policy_payload>{"show,show_sometimes":{"sys_id":"91cab3f5db95f60028d65bc0cf961993","applies":"all_apply","action_sys_id":"15cab3f5db95f60028d65bc0cf961995","name":"","conditions":[{"comparator":"=","value":"Priority Shipping (Customers Expense)","element":"how_would_you_like_your_tickets_deli_00"}],"operation":"show"}}</policy_payload>
+        <preconfigured>false</preconfigured>
+        <question_text>Credit Card</question_text>
+        <read_only>false</read_only>
+        <read_only_question_type>false</read_only_question_type>
+        <recurring_cost>0</recurring_cost>
+        <sc_ic_column display_value="">37ba33f5db95f60028d65bc0cf9619e7</sc_ic_column>
+        <sc_ic_item_staging/>
+        <sc_ic_question_class display_value="Single Line Text">027ffb11eb5211003623666cd206fe1f</sc_ic_question_class>
+        <sc_ic_question_type display_value="-- Create your own Single Line Text  --">ee4eb0c0eb2211003623666cd206feac</sc_ic_question_type>
+        <sc_ic_section display_value="Section 3 (Distribution Method)">a7ba33f5db95f60028d65bc0cf9619d8</sc_ic_section>
+        <scale_max>0</scale_max>
+        <scale_min>0</scale_min>
+        <sys_class_name>sc_ic_question</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2017-03-05 14:06:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>37ba33f5db95f60028d65bc0cf9619eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>credit_card_01</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>sc_ic_question_37ba33f5db95f60028d65bc0cf9619eb</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-03-05 14:06:10</sys_updated_on>
+    </sc_ic_question>
+    <fx_price action="delete_multiple" query="id=37ba33f5db95f60028d65bc0cf9619eb"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>cost</field>
+        <id>37ba33f5db95f60028d65bc0cf9619eb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2017-03-05 14:06:04</sys_created_on>
+        <sys_id>fbba33f5db95f60028d65bc0cf9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-03-05 14:06:04</sys_updated_on>
+        <table>sc_ic_question</table>
+        <type>Calculated (dynamically determined on di</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_cost</field>
+        <id>37ba33f5db95f60028d65bc0cf9619eb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2017-03-05 14:06:04</sys_created_on>
+        <sys_id>73ba33f5db95f60028d65bc0cf9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-03-05 14:06:04</sys_updated_on>
+        <table>sc_ic_question</table>
+        <type>Calculated (dynamically determined on di</type>
+    </fx_price>
+</record_update>

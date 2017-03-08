@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="test">cf35a0aedb05720028d65bc0cf96194e</dashboard>
+        <home>false</home>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-02-22 20:13:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>f145646edb05720028d65bc0cf961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cf35a0aedb05720028d65bc0cf96194e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_f145646edb05720028d65bc0cf961967</sys_update_name>
+        <sys_updated_by>AdminLes</sys_updated_by>
+        <sys_updated_on>2017-02-22 20:13:09</sys_updated_on>
+        <tab display_value="New Tab 1">bd45646edb05720028d65bc0cf961964</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

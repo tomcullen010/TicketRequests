@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-tempecd24a59db15b60028d65bc0cf961919CRogers</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>CRogers</sys_created_by>
+        <sys_created_on>2017-03-06 21:50:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8f8ee6dadb913a0028d65bc0cf9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>CRogers</sys_updated_by>
+        <sys_updated_on>2017-03-06 21:50:07</sys_updated_on>
+        <title>Rpt-tempecd24a59db15b60028d65bc0cf961919crogers</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

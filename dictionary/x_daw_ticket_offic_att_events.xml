@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ATT Events" max_length="40" name="x_daw_ticket_offic_att_events" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

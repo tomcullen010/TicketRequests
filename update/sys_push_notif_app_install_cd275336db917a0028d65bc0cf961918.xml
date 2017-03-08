@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2017-03-08 14:04:27</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-03-08 14:04:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cd275336db917a0028d65bc0cf961918</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>d153a4cb19ded0d98b37dee9922567f336f8b0877747fb8826ab108b42fcad22</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_cd275336db917a0028d65bc0cf961918</sys_update_name>
+        <sys_updated_by>AdminLes</sys_updated_by>
+        <sys_updated_on>2017-03-08 14:04:27</sys_updated_on>
+        <sys_user_id display_value="adminLes Gaylor">6f3e7d0d609970005e0eeecf2e764950</sys_user_id>
+        <token>d153a4cb19ded0d98b37dee9922567f336f8b0877747fb8826ab108b42fcad22</token>
+    </sys_push_notif_app_install>
+</record_update>

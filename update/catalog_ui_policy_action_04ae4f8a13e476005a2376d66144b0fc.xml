@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="In-House Ticket Request Form">6e84874613e476005a2376d66144b05c</catalog_item>
+        <catalog_variable>IO:e75d838a13e476005a2376d66144b0f7</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-01-27 22:45:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>04ae4f8a13e476005a2376d66144b0fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mop_cc_entry</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_04ae4f8a13e476005a2376d66144b0fc</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-02-03 18:53:43</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show MOP Credit Card Fields">2f6e0f8a13e476005a2376d66144b041</ui_policy>
+        <variable>mop_cc_entry</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

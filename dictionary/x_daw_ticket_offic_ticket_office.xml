@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Ticket Office" max_length="40" name="x_daw_ticket_offic_ticket_office" sizeclass="18" type="collection">
+        <element choice="1" label="Comp Dept Charge" max_length="40" name="comp_dept_charge" read_only="true" type="choice">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="Contract Obligation" max_length="4000" name="contract_obligation" read_only="true" reference="x_daw_ticket_offic_ticket_office" type="glide_list"/>
+        <element choice="1" label="Distribution E-mail" max_length="40" name="distribution_e_mail" read_only="true" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element dependent="method_of_payment" dependent_on_field="method_of_payment" label="Distribution Interoffice" max_length="40" name="distribution_interoffice" read_only="true" type="string" use_dependent_field="true"/>
+        <element choice="1" label="Distribution Method" max_length="40" name="distribution_method" read_only="true" type="choice">
+            <choice>
+                <element label="E-mail" sequence="0" value="delivery_email"/>
+                <element label="Interoffice" sequence="1" value="delivery_dept"/>
+                <element label="Priority Ship" sequence="2" value="delivery_priority_ship"/>
+                <element label="Will Call" sequence="3" value="delivery_willcall"/>
+            </choice>
+        </element>
+        <element label="Distribution Will Call" max_length="40" name="distribution_will_call" read_only="true" type="string" use_dependent_field="true"/>
+        <element label="Distro CC Encrypt" max_length="4000" name="distro_cc_encrypt" read_only="true" type="glide_encrypted"/>
+        <element label="Distro CC Entry" max_length="40" name="distro_cc_entry" read_only="true" type="string"/>
+        <element label="Distro CC Expiry" max_length="40" name="distro_cc_expiry" read_only="true" type="string"/>
+        <element choice="3" dependent="event_name" dependent_on_field="event_name" label="Event Name" max_length="4000" name="event_name" read_only="true" reference="x_daw_ticket_offic_att_events" reference_cascade_rule="cascade" reference_qual="nameANYTHING^EQ" reference_qual_condition="nameANYTHING^EQ" type="glide_list" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element choice="1" label="Method of Payment" max_length="40" name="method_of_payment" read_only="true" type="choice">
+            <choice>
+                <element label="Cash" value="mop_cash"/>
+                <element label="Check" value="mop_check"/>
+                <element label="Credit Card" value="mop_cc"/>
+            </choice>
+        </element>
+        <element label="MOP CC Encrypt" max_length="4000" name="mop_cc_encrypt" read_only="true" type="glide_encrypted"/>
+        <element label="MOP CC Entry" max_length="40" name="mop_cc_entry" read_only="true" type="string" use_dependent_field="true"/>
+        <element label="MOP CC Expiry" max_length="40" name="mop_cc_expiry" read_only="true" type="string"/>
+        <element label="Number of Parking" max_length="40" name="number_of_parking" read_only="true" type="string"/>
+        <element label="Number of Tickets" max_length="40" name="number_of_tickets" read_only="true" type="string"/>
+        <element label="Order Address" max_length="40" name="order_address" read_only="true" type="string"/>
+        <element label="Order City" max_length="40" name="order_city" read_only="true" type="string"/>
+        <element label="Order Email" max_length="40" name="order_email" read_only="true" type="string"/>
+        <element label="Order Name" max_length="40" name="order_name" read_only="true" type="string"/>
+        <element label="Order Phone" max_length="40" name="order_phone" read_only="true" type="string"/>
+        <element label="Order State" max_length="40" name="order_state" read_only="true" type="string"/>
+        <element label="Order Zip Code" max_length="40" name="order_zip_code" read_only="true" type="string"/>
+        <element label="Parking Lot Requested" max_length="40" name="parking_lot_requested" read_only="true" type="string"/>
+        <element label="Requested By Phone" max_length="40" name="requested_by_phone" read_only="true" type="string"/>
+        <element choice="1" label="Request Stage" max_length="80" name="request_stage" read_only="true" type="workflow">
+            <choice>
+                <element label="Open" sequence="100" value="Open"/>
+                <element label="Received - Awaiting Dept Head Approval" sequence="200" value="Received_Awaiting_Dept_Head_Approval"/>
+                <element label="Ticket Office Fulfillment" sequence="300" value="Ticket_Office_Fulfillment"/>
+                <element label="Closed" sequence="400" value="Closed"/>
+            </choice>
+        </element>
+        <element label="Ticket Location Requested" max_length="40" name="ticket_location_requested" read_only="true" type="string"/>
+    </element>
+</database>

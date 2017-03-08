@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Order Information" section_id="6ec9e66413bc7a005a2376d66144b06d" sys_domain="global" table="x_daw_ticket_offic_ticket_office" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_name</element>
+            <position>0</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>a89b66a413bc7a005a2376d66144b044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_email</element>
+            <position>1</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>2c9b66a413bc7a005a2376d66144b044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ticket_location_requested</element>
+            <position>2</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>ac9b66a413bc7a005a2376d66144b044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_tickets</element>
+            <position>3</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>209b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_parking</element>
+            <position>4</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>a09b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>249b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_address</element>
+            <position>6</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>a49b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_city</element>
+            <position>7</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>289b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_state</element>
+            <position>8</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>a89b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_zip_code</element>
+            <position>9</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>2c9b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_phone</element>
+            <position>10</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:36:21</sys_created_on>
+            <sys_id>ac9b66a413bc7a005a2376d66144b045</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Information" display_value="Order Information" name="x_daw_ticket_offic_ticket_office" sys_domain="global" view="Default view">6ec9e66413bc7a005a2376d66144b06d</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Order Information</caption>
+            <header>false</header>
+            <name>x_daw_ticket_offic_ticket_office</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2017-02-04 14:28:33</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>6ec9e66413bc7a005a2376d66144b06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Order Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+            <sys_update_name>sys_ui_section_6ec9e66413bc7a005a2376d66144b06d</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2017-02-04 14:28:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>distro_cc_encrypt</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-02-02 21:39:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b829bd0413bc3a005a2376d66144b0be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>distro_cc_encrypt</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b829bd0413bc3a005a2376d66144b0be</sys_update_name>
+        <sys_updated_by>AdminLes</sys_updated_by>
+        <sys_updated_on>2017-02-02 21:39:25</sys_updated_on>
+        <table>x_daw_ticket_offic_ticket_office</table>
+        <ui_policy display_value="Show Only Email">9cf83d0413bc3a005a2376d66144b0cf</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

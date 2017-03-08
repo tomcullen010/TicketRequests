@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="In-House Ticket Request Form">6e84874613e476005a2376d66144b05c</catalog_item>
+        <catalog_variable>IO:c6b4178e13e476005a2376d66144b06c</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>AdminLes</sys_created_by>
+        <sys_created_on>2017-02-03 00:10:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>14dbd64413fc3a005a2376d66144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>distribution_e_mail</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_14dbd64413fc3a005a2376d66144b07f</sys_update_name>
+        <sys_updated_by>AdminLes</sys_updated_by>
+        <sys_updated_on>2017-02-03 00:10:51</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show Will Call">646bd24413fc3a005a2376d66144b074</ui_policy>
+        <variable>distribution_e_mail</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

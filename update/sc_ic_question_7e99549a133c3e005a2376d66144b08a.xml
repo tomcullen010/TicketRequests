@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_question">
+    <sc_ic_question action="INSERT_OR_UPDATE">
+        <base_type>6</base_type>
+        <cost>0</cost>
+        <default_value/>
+        <help_text>*** Please note, a $5.00 handling fee will be added to each Dallas Cowboys in-house order. ***
+*A $10.00 per ticket service fee and a $5.00 handling fee will be added to each in-house Event order.*</help_text>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>number_of_tickets_requested_00</name>
+        <order>3</order>
+        <policy_payload>{"unrequire,require_sometimes,require":{"sys_id":"bca9d49a133c3e005a2376d66144b0eb","applies":"all_apply","action_sys_id":"fca9d49a133c3e005a2376d66144b0ed","name":"","conditions":[],"operation":"require"},"show,show_sometimes":{"sys_id":"b8a9189a133c3e005a2376d66144b000","applies":"all_apply","action_sys_id":"f8a9189a133c3e005a2376d66144b002","name":"","conditions":[],"operation":"show"}}</policy_payload>
+        <preconfigured>false</preconfigured>
+        <question_text>Number of Tickets Requested</question_text>
+        <read_only>false</read_only>
+        <read_only_question_type>false</read_only_question_type>
+        <recurring_cost>0</recurring_cost>
+        <sc_ic_column display_value="">ea99549a133c3e005a2376d66144b046</sc_ic_column>
+        <sc_ic_item_staging/>
+        <sc_ic_question_class display_value="Single Line Text">027ffb11eb5211003623666cd206fe1f</sc_ic_question_class>
+        <sc_ic_question_type display_value="-- Create your own Single Line Text  --">ee4eb0c0eb2211003623666cd206feac</sc_ic_question_type>
+        <sc_ic_section display_value="Section 1">2699549a133c3e005a2376d66144b046</sc_ic_section>
+        <scale_max>0</scale_max>
+        <scale_min>0</scale_min>
+        <sys_class_name>sc_ic_question</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2017-02-09 14:27:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7e99549a133c3e005a2376d66144b08a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>number_of_tickets_requested_00</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>sc_ic_question_7e99549a133c3e005a2376d66144b08a</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-02-09 14:28:07</sys_updated_on>
+    </sc_ic_question>
+    <fx_price action="delete_multiple" query="id=7e99549a133c3e005a2376d66144b08a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>cost</field>
+        <id>7e99549a133c3e005a2376d66144b08a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2017-02-09 14:27:59</sys_created_on>
+        <sys_id>3699549a133c3e005a2376d66144b08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-02-09 14:27:59</sys_updated_on>
+        <table>sc_ic_question</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_cost</field>
+        <id>7e99549a133c3e005a2376d66144b08a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2017-02-09 14:27:59</sys_created_on>
+        <sys_id>7e99549a133c3e005a2376d66144b08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2017-02-09 14:27:59</sys_updated_on>
+        <table>sc_ic_question</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
