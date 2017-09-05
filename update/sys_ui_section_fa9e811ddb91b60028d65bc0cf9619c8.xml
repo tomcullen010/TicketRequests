@@ -177,8 +177,9 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tom.cullen</sys_created_by>
             <sys_created_on>2017-03-03 12:17:01</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>fa9e811ddb91b60028d65bc0cf9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>task</sys_name>

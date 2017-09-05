@@ -13,10 +13,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-01 21:43:39</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>66907c3713643a005a2376d66144b0e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-02-01 21:43:39</sys_updated_on>
+            <u_translation_log_id/>
             <value>mop_cash</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -31,10 +33,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-01 21:42:52</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>ab40bc3713643a005a2376d66144b093</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-02-01 21:42:52</sys_updated_on>
+            <u_translation_log_id/>
             <value>mop_cc</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -49,10 +53,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-01 21:44:06</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>d1b0f43713643a005a2376d66144b015</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-02-01 21:44:06</sys_updated_on>
+            <u_translation_log_id/>
             <value>mop_check</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -62,7 +68,7 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-01 21:42:52</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>9f607c3713643a005a2376d66144b0ff</sys_id>
+            <sys_id>dad1e732131932001cdf5aef3244b0ed</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>method_of_payment</sys_name>
             <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>

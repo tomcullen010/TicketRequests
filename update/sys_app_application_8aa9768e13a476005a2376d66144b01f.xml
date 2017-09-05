@@ -12,8 +12,9 @@
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 21:13:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>8aa9768e13a476005a2376d66144b01f</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Ticket Office Request</sys_name>

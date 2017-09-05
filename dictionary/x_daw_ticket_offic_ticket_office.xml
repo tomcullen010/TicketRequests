@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Ticket Office" max_length="40" name="x_daw_ticket_offic_ticket_office" sizeclass="18" type="collection">
+    <element audit="true" extends="task" label="Ticket Office" max_length="40" name="x_daw_ticket_offic_ticket_office" text_index="true" type="collection">
         <element choice="1" label="Comp Dept Charge" max_length="40" name="comp_dept_charge" read_only="true" type="choice">
             <choice>
                 <element label="Choice 1" sequence="0" value="Choice 1"/>

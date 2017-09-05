@@ -8,15 +8,15 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-03-02 21:28:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>f0434a41139976005a2376d66144b0aa</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>43d8db74130be2002f92b6004244b097</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,myhomepage</sys_name>
         <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
-        <sys_update_name>sys_ui_view_f0434a41139976005a2376d66144b0aa</sys_update_name>
+        <sys_update_name>sys_ui_view_43d8db74130be2002f92b6004244b097</sys_update_name>
         <sys_updated_by>AdminLes</sys_updated_by>
         <sys_updated_on>2017-03-02 21:28:35</sys_updated_on>
         <title>Sys_popup,myhomepage</title>

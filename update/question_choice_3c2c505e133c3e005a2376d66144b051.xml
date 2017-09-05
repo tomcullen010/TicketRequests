@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-09 14:39:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3c2c505e133c3e005a2376d66144b051</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Panthers vs. Cowboys - Nov. 26, 2015</sys_name>
@@ -20,9 +20,6 @@
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-02-09 14:39:02</sys_updated_on>
         <text>Panthers vs. Cowboys - Nov. 26, 2015</text>
-        <u_cc_number/>
-        <u_cin/>
-        <u_expiration/>
         <value>Panthers vs. Cowboys - Nov. 26, 2015</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=3c2c505e133c3e005a2376d66144b051"/>

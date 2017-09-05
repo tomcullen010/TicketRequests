@@ -25,8 +25,9 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-02-02 23:29:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>08625a0013fc3a005a2376d66144b0db</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Show only Willcall</sys_name>

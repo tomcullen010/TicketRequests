@@ -5,6 +5,7 @@
         <applies_catalog>true</applies_catalog>
         <applies_req_item>false</applies_req_item>
         <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:ca729f0e13e476005a2376d66144b03b=delivery_email^EQ</catalog_conditions>
         <catalog_item display_value="In-House Ticket Request Form">6e84874613e476005a2376d66144b05c</catalog_item>
@@ -25,8 +26,9 @@
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-02-03 00:00:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>a5495ec013fc3a005a2376d66144b09a</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Show Email Field only</sys_name>

@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-28 03:12:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>67eb841e136876005a2376d66144b07a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Event Listing</sys_name>

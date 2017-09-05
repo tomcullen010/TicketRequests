@@ -6,11 +6,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>0b8cf50313a0f6005a2376d66144b0dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">4b8cf50313a0f6005a2376d66144b0d9</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">478cf50313a0f6005a2376d66144b0db</sys_ui_section>
+            <sys_ui_section display_value="">478cf50313a0f6005a2376d66144b0db</sys_ui_section>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-01-30 19:20:00</sys_updated_on>
         </sys_ui_form_section>
@@ -19,11 +20,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>878cf50313a0f6005a2376d66144b0de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">4b8cf50313a0f6005a2376d66144b0d9</sys_ui_form>
-            <sys_ui_section caption="Details" display_value="Details" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">0f8cf50313a0f6005a2376d66144b0dc</sys_ui_section>
+            <sys_ui_section display_value="">0f8cf50313a0f6005a2376d66144b0dc</sys_ui_section>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-01-30 19:20:00</sys_updated_on>
         </sys_ui_form_section>
@@ -32,11 +34,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>038cf50313a0f6005a2376d66144b0e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">4b8cf50313a0f6005a2376d66144b0d9</sys_ui_form>
-            <sys_ui_section caption="Costs" display_value="Costs" name="sc_cat_item_producer" sys_domain="global" view="f5a795fceb3211003623666cd206fe19">8b8cf50313a0f6005a2376d66144b0de</sys_ui_section>
+            <sys_ui_section display_value="">8b8cf50313a0f6005a2376d66144b0de</sys_ui_section>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-01-30 19:20:00</sys_updated_on>
         </sys_ui_form_section>
@@ -46,8 +49,9 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>4b8cf50313a0f6005a2376d66144b0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sc_cat_item_producer</sys_name>

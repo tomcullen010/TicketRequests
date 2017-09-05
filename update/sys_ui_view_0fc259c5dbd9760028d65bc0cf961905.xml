@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-03-02 17:56:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0fc259c5dbd9760028d65bc0cf961905</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,rptd299b049db99760028d65bc0cf9619be</sys_name>

@@ -14,6 +14,7 @@
         <sys_created_on>2017-03-03 16:50:03</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>da1dc211db55b60028d65bc0cf961905</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -26,6 +27,6 @@
         <sys_updated_on>2017-03-03 16:50:03</sys_updated_on>
         <table>sys_user</table>
         <title>mobile</title>
-        <user display_value="bobby orr">b9768ad9db15b60028d65bc0cf961953</user>
+        <user display_value="">b9768ad9db15b60028d65bc0cf961953</user>
     </sys_filter>
 </record_update>

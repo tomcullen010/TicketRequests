@@ -5,7 +5,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Ticket Office">aaa33a076015b0005e0eeecf2e76496c</category>
+        <category display_value="">aaa33a076015b0005e0eeecf2e76496c</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -35,10 +35,11 @@
         <order>0</order>
         <ordered_item_link/>
         <picture/>
-        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=6e84874613e476005a2376d66144b05c&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=6e84874613e476005a2376d66144b05c&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
+        <redirect_url/>
         <roles/>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
@@ -50,7 +51,7 @@
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 22:01:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6e84874613e476005a2376d66144b05c</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>In-House Ticket Request Form</sys_name>

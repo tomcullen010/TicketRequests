@@ -2,7 +2,7 @@
 <record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2017-02-17 14:40:10</change_date>
-        <changed_by display_value="adminLes Gaylor">6f3e7d0d609970005e0eeecf2e764950</changed_by>
+        <changed_by display_value="">6f3e7d0d609970005e0eeecf2e764950</changed_by>
         <content display_value="Discovery">0145b771c32312007bf1bea192d3ae1d</content>
         <related_change_log_entry/>
         <related_task_entry/>

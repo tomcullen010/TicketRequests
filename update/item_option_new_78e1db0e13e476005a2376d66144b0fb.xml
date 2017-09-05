@@ -18,6 +18,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <example_text/>
         <field>contract_obligation</field>
         <global>false</global>
         <help_tag>More information</help_tag>
@@ -58,7 +59,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 23:00:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>78e1db0e13e476005a2376d66144b0fb</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Is there a contractual obligation to fill this request?</sys_name>
@@ -86,4 +87,22 @@
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=78e1db0e13e476005a2376d66144b0fb"/>
+    <fx_price action="delete_multiple" query="id=78e1db0e13e476005a2376d66144b0fb"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>78e1db0e13e476005a2376d66144b0fb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-05 19:09:57</sys_created_on>
+        <sys_id>85d4a89513cd07001cdf5aef3244b048</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-05 19:09:57</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
 </record_update>

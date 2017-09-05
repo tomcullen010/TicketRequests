@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-09 14:35:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>415bd8da133c3e005a2376d66144b02e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Comp</sys_name>
@@ -20,9 +20,6 @@
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-02-09 14:35:30</sys_updated_on>
         <text>Comp</text>
-        <u_cc_number/>
-        <u_cin/>
-        <u_expiration/>
         <value>Comp</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=415bd8da133c3e005a2376d66144b02e"/>

@@ -25,8 +25,9 @@
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>tom.cullen</sys_created_by>
             <sys_created_on>2017-03-03 13:41:49</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>8102a995dbd1b60028d65bc0cf961907</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Ticket Office - Default view</sys_name>

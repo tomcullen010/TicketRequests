@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Ticket Requests">b6c4a332131932001cdf5aef3244b0a1</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-08 15:04:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>76c4abb2131932001cdf5aef3244b03b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Ticket Requests</sys_name>
+        <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_76c4abb2131932001cdf5aef3244b03b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-08 15:04:05</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

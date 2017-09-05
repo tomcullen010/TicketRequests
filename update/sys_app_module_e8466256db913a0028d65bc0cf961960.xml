@@ -8,7 +8,7 @@
         <device_type/>
         <filter/>
         <hint>Dashboard View</hint>
-        <homepage display_value="Ticket Office Services Overview">d5c75d241d80c2001c5b1e9bff094f74</homepage>
+        <homepage display_value="">d5c75d241d80c2001c5b1e9bff094f74</homepage>
         <image/>
         <link_type>HOMEPAGE</link_type>
         <map_page/>
@@ -25,8 +25,9 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-03-06 21:18:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e8466256db913a0028d65bc0cf961960</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Ticket Office Dashboard</sys_name>

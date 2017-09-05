@@ -14,6 +14,7 @@
         <sys_created_on>2017-03-03 16:31:37</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>94e8025ddb15b60028d65bc0cf961908</sys_id>
         <sys_mod_count>7</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -26,6 +27,6 @@
         <sys_updated_on>2017-03-07 12:57:21</sys_updated_on>
         <table>x_daw_ticket_offic_att_events</table>
         <title>mobile</title>
-        <user display_value="bobby orr">b9768ad9db15b60028d65bc0cf961953</user>
+        <user display_value="">b9768ad9db15b60028d65bc0cf961953</user>
     </sys_filter>
 </record_update>

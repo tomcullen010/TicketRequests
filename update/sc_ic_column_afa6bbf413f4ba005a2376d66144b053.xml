@@ -7,7 +7,7 @@
         <sys_class_name>sc_ic_column</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-05 14:42:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>afa6bbf413f4ba005a2376d66144b053</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Column 1</sys_name>

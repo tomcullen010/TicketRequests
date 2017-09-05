@@ -4,47 +4,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sys_user_role" element="NULL" name="sys_user_role" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b2d53f8c0a0a0baa26f6807cfbb3ddd5</list_id>
+            <list_id display_value="sys_user_role" element="NULL" name="sys_user_role" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1ce63010a00064132e7da69e02ebb47</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>dloo</sys_created_by>
-            <sys_created_on>2010-05-19 23:10:39</sys_created_on>
-            <sys_id>b2d53f930a0a0baa1b5b0282f54f922b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-04-29 15:09:08</sys_created_on>
+            <sys_id>a1ce63020a00064114cc9f085c90ca72</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>dloo</sys_updated_by>
-            <sys_updated_on>2010-05-19 23:10:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2011-04-29 15:09:08</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>description</element>
-            <list_id display_value="sys_user_role" element="NULL" name="sys_user_role" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b2d53f8c0a0a0baa26f6807cfbb3ddd5</list_id>
+            <list_id display_value="sys_user_role" element="NULL" name="sys_user_role" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1ce63010a00064132e7da69e02ebb47</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>dloo</sys_created_by>
-            <sys_created_on>2010-05-19 23:10:39</sys_created_on>
-            <sys_id>b2d53f950a0a0baa756dfb21a6ae25f0</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-04-29 15:09:08</sys_created_on>
+            <sys_id>a1ce63030a0006415abb7daf5e1fc09b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>dloo</sys_updated_by>
-            <sys_updated_on>2010-05-19 23:10:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2011-04-29 15:09:08</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>elevated_privilege</element>
-            <list_id display_value="sys_user_role" element="NULL" name="sys_user_role" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b2d53f8c0a0a0baa26f6807cfbb3ddd5</list_id>
+            <element>sys_updated_on</element>
+            <list_id display_value="sys_user_role" element="NULL" name="sys_user_role" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1ce63010a00064132e7da69e02ebb47</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>dloo</sys_created_by>
-            <sys_created_on>2010-05-19 23:10:39</sys_created_on>
-            <sys_id>b2d53f960a0a0baa2c460922cfd20f9b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-04-29 15:09:08</sys_created_on>
+            <sys_id>a1ce63030a0006411e06ee2ec5ff5104</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>dloo</sys_updated_by>
-            <sys_updated_on>2010-05-19 23:10:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2011-04-29 15:09:08</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -59,8 +59,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 17:00:55</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2dbc5d8f1320f6005a2376d66144b0ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_user_role</sys_name>
@@ -71,7 +72,7 @@
             <sys_update_name>sys_ui_list_sys_user_role_null</sys_update_name>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-01-30 17:00:55</sys_updated_on>
-            <sys_user display_value="adminLes Gaylor">6f3e7d0d609970005e0eeecf2e764950</sys_user>
+            <sys_user display_value="">6f3e7d0d609970005e0eeecf2e764950</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

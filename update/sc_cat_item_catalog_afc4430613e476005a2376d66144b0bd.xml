@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 22:01:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>afc4430613e476005a2376d66144b0bd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.In-House Ticket Request Form</sys_name>

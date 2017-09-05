@@ -59,8 +59,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-28 21:44:01</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>115a84ea1320b6005a2376d66144b004</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_daw_ticket_offic_att_events</sys_name>

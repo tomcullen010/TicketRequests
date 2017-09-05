@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_formatter</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-04 22:30:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>10389c341370ba005a2376d66144b0e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Process Flow</sys_name>

@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="In-House Ticket Request Form">6e84874613e476005a2376d66144b05c</sc_cat_item>
-        <sc_category display_value="Ticket Office">aaa33a076015b0005e0eeecf2e76496c</sc_category>
+        <sc_category display_value="">aaa33a076015b0005e0eeecf2e76496c</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-28 00:02:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3580a746132876005a2376d66144b01d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Ticket Office.In-House Ticket Request Form</sys_name>

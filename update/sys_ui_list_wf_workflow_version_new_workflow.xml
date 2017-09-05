@@ -89,8 +89,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>tom.cullen</sys_created_by>
             <sys_created_on>2017-02-07 23:14:18</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>05eef3e9137cfa005a2376d66144b068</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>wf_workflow_version</sys_name>
@@ -101,7 +102,7 @@
             <sys_update_name>sys_ui_list_wf_workflow_version_new_workflow</sys_update_name>
             <sys_updated_by>tom.cullen</sys_updated_by>
             <sys_updated_on>2017-02-07 23:14:18</sys_updated_on>
-            <sys_user display_value="Tom Cullen">5014cd5c13f07a005a2376d66144b009</sys_user>
+            <sys_user display_value="Tom Cullen">c51797fd13d12a001cdf5aef3244b0f3</sys_user>
             <view display_value="New Workflow" name="new_workflow">df296e5cff723100f03bffffffffff87</view>
             <view_name/>
         </sys_ui_list>

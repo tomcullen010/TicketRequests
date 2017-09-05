@@ -15,7 +15,7 @@
         <sys_class_name>sys_template</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-04 22:36:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b7491c741370ba005a2376d66144b0ec</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Ticket Request Tempate</sys_name>
@@ -28,7 +28,7 @@
         <sys_updated_on>2017-03-07 12:49:14</sys_updated_on>
         <table>x_daw_ticket_offic_ticket_office</table>
         <template>state=1^assignment_group=068aa9a81d80c2001c5b1e9bff094f8d^short_description=Ticket Office Request^EQ</template>
-        <user display_value="Tom Cullen">5014cd5c13f07a005a2376d66144b009</user>
+        <user display_value="Tom Cullen">c51797fd13d12a001cdf5aef3244b0f3</user>
         <view/>
     </sys_template>
 </record_update>

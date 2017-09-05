@@ -8,7 +8,7 @@
         <sys_class_name>sc_ic_question_choice</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-09 14:35:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>445b98da133c3e005a2376d66144b078</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Eagles vs. Cowboys - Nov. 8, 2015</sys_name>
@@ -57,4 +57,5 @@
         <table>sc_ic_question_choice</table>
         <type>calculated</type>
     </fx_price>
+    <sys_translated_text action="delete_multiple" query="documentkey=445b98da133c3e005a2376d66144b078"/>
 </record_update>

@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-28 21:42:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>610a00ea1320b6005a2376d66144b00e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_daw_ticket_offic.att_events_user</sys_name>

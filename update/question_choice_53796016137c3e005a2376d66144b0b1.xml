@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-09 15:37:22</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>53796016137c3e005a2376d66144b0b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Credit Card</sys_name>
@@ -20,9 +20,6 @@
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-02-09 15:37:22</sys_updated_on>
         <text>Credit Card</text>
-        <u_cc_number/>
-        <u_cin/>
-        <u_expiration/>
         <value>Credit Card</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=53796016137c3e005a2376d66144b0b1"/>

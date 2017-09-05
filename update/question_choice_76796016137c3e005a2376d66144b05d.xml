@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-09 15:37:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>76796016137c3e005a2376d66144b05d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ESPN Kickoff - Sept. 5, 2015</sys_name>
@@ -20,9 +20,6 @@
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-02-09 15:37:20</sys_updated_on>
         <text>ESPN Kickoff - Sept. 5, 2015</text>
-        <u_cc_number/>
-        <u_cin/>
-        <u_expiration/>
         <value>ESPN Kickoff - Sept. 5, 2015</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=76796016137c3e005a2376d66144b05d"/>

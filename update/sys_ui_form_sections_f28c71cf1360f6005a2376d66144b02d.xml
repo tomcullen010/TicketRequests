@@ -6,11 +6,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>8b8cf50313a0f6005a2376d66144b0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">f28c71cf1360f6005a2376d66144b02d</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">cb8c71cf1360f6005a2376d66144b02f</sys_ui_section>
+            <sys_ui_section display_value="">cb8c71cf1360f6005a2376d66144b02f</sys_ui_section>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-01-30 19:20:00</sys_updated_on>
         </sys_ui_form_section>
@@ -19,11 +20,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>c38cf50313a0f6005a2376d66144b0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sc_cat_item_producer" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">f28c71cf1360f6005a2376d66144b02d</sys_ui_form>
-            <sys_ui_section caption="Mobile" display_value="Mobile" name="sc_cat_item_producer" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">c38cf50313a0f6005a2376d66144b0d8</sys_ui_section>
+            <sys_ui_section display_value="">c38cf50313a0f6005a2376d66144b0d8</sys_ui_section>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-01-30 19:20:00</sys_updated_on>
         </sys_ui_form_section>
@@ -33,8 +35,9 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-01-30 19:20:00</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>f28c71cf1360f6005a2376d66144b02d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sc_cat_item_producer</sys_name>

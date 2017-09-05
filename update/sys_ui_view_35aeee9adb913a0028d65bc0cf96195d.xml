@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-03-06 21:50:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>35aeee9adb913a0028d65bc0cf96195d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Test_mgmt_dashboard</sys_name>

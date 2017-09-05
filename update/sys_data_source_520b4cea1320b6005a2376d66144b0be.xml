@@ -20,6 +20,7 @@
         <jdbc_password/>
         <jdbc_server/>
         <jdbc_user_name/>
+        <jpath_root_node/>
         <last_run_database_field/>
         <last_run_datetime/>
         <ldap_target/>
@@ -42,7 +43,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-28 21:47:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>520b4cea1320b6005a2376d66144b0be</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>x_daw_ticket_offic_att_events.xlsx (Uplo</sys_name>

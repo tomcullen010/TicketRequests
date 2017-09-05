@@ -15,7 +15,7 @@
         <expected_sequences>8f27e3aedbd93a0028d65bc0cf9619b6,8727abaedbd93a0028d65bc0cf961988,cf27abaedbd93a0028d65bc0cf96197e,c727abaedbd93a0028d65bc0cf96198e,0327abaedbd93a0028d65bc0cf96198b,0f27e3aedbd93a0028d65bc0cf9619b9,cf27abaedbd93a0028d65bc0cf96198b,8327abaedbd93a0028d65bc0cf961987,cf27abaedbd93a0028d65bc0cf961990,4727abaedbd93a0028d65bc0cf961989,0727abaedbd93a0028d65bc0cf96198a</expected_sequences>
         <expected_time>1970-01-01 14:00:00</expected_time>
         <expected_time_type/>
-        <full_sequences>8f27e3aedbd93a0028d65bc0cf9619b6,8727abaedbd93a0028d65bc0cf961988,cf27abaedbd93a0028d65bc0cf96197e,4727e3aedbd93a0028d65bc0cf9619bb,c327e3aedbd93a0028d65bc0cf9619b8,0727abaedbd93a0028d65bc0cf96198a|8f27e3aedbd93a0028d65bc0cf9619b6,8727abaedbd93a0028d65bc0cf961988,cf27abaedbd93a0028d65bc0cf96197e,c727abaedbd93a0028d65bc0cf96198e,0327abaedbd93a0028d65bc0cf96198b,0f27e3aedbd93a0028d65bc0cf9619b9,cf27abaedbd93a0028d65bc0cf96198b,8327abaedbd93a0028d65bc0cf961987,cf27abaedbd93a0028d65bc0cf961990,4727abaedbd93a0028d65bc0cf961989,0727abaedbd93a0028d65bc0cf96198a</full_sequences>
+        <full_sequences>8f27e3aedbd93a0028d65bc0cf9619b6,8727abaedbd93a0028d65bc0cf961988,cf27abaedbd93a0028d65bc0cf96197e,c727abaedbd93a0028d65bc0cf96198e,4727e3aedbd93a0028d65bc0cf9619bb,0327abaedbd93a0028d65bc0cf96198b,c327e3aedbd93a0028d65bc0cf9619b8,0f27e3aedbd93a0028d65bc0cf9619b9,0727abaedbd93a0028d65bc0cf96198a,cf27abaedbd93a0028d65bc0cf96198b,8327abaedbd93a0028d65bc0cf961987,cf27abaedbd93a0028d65bc0cf961990,4727abaedbd93a0028d65bc0cf961989</full_sequences>
         <journal/>
         <max_activity_count>100</max_activity_count>
         <name>In-House Ticket WF</name>
@@ -34,9 +34,9 @@
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-03-07 20:36:00</sys_created_on>
         <sys_id>0b27e3aedbd93a0028d65bc0cf9619b4</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_updated_by>tom.cullen</sys_updated_by>
-        <sys_updated_on>2017-03-07 20:39:57</sys_updated_on>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-06 19:02:00</sys_updated_on>
         <table>x_daw_ticket_offic_ticket_office</table>
         <timezone/>
         <validated>true</validated>
@@ -50,8 +50,9 @@
         <sys_class_name>wf_workflow</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-30 17:28:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>ccf2e5cf1320f6005a2376d66144b0bd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>In-House Ticket WF</sys_name>
@@ -1924,12 +1925,12 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-03-07 20:36:00</sys_created_on>
-        <sys_id>c327abaedbd93a0028d65bc0cf961984</sys_id>
+        <sys_id>8327abaedbd93a0028d65bc0cf961985</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-03-07 20:36:00</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1938,12 +1939,12 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-03-07 20:36:00</sys_created_on>
-        <sys_id>8327abaedbd93a0028d65bc0cf961985</sys_id>
+        <sys_id>c327abaedbd93a0028d65bc0cf961984</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-03-07 20:36:00</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>

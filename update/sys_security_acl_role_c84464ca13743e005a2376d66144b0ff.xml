@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-08 20:38:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c84464ca13743e005a2376d66144b0ff</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.x_daw_ticket_offic.ticket_office_user</sys_name>

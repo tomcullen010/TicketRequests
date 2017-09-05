@@ -18,10 +18,12 @@
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-28 21:42:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>65d94caa1320b6005a2376d66144b052</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ATT Events</sys_name>

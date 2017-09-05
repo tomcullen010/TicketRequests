@@ -20,4 +20,5 @@
         <sys_updated_by>tom.cullen</sys_updated_by>
         <sys_updated_on>2017-02-09 14:49:50</sys_updated_on>
     </sc_ic_section>
+    <sys_translated_text action="delete_multiple" query="documentkey=f69ed89e133c3e005a2376d66144b009"/>
 </record_update>

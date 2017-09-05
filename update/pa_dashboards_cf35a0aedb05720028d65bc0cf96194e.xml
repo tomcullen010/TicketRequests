@@ -11,17 +11,19 @@
         <name>test</name>
         <no_tabs>false</no_tabs>
         <order/>
-        <owner display_value="adminLes Gaylor">6f3e7d0d609970005e0eeecf2e764950</owner>
+        <owner/>
         <restrict_to_roles/>
         <role_override>true</role_override>
         <roles/>
+        <should_migrate_permissions>true</should_migrate_permissions>
         <sys_class_name>pa_dashboards</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-02-22 20:13:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>cf35a0aedb05720028d65bc0cf96194e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>test</sys_name>
         <sys_overrides/>
         <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>
@@ -29,8 +31,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Ticket Office">9159f20e13a476005a2376d66144b0a0</sys_scope>
         <sys_update_name>pa_dashboards_cf35a0aedb05720028d65bc0cf96194e</sys_update_name>
-        <sys_updated_by>AdminLes</sys_updated_by>
-        <sys_updated_on>2017-02-22 20:13:06</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-06 19:16:08</sys_updated_on>
         <users/>
         <visible_to>2</visible_to>
     </pa_dashboards>

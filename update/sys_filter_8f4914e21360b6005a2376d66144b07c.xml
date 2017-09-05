@@ -14,6 +14,7 @@
         <sys_created_on>2017-01-28 22:49:25</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>8f4914e21360b6005a2376d66144b07c</sys_id>
         <sys_mod_count>40</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -26,6 +27,6 @@
         <sys_updated_on>2017-03-07 16:07:40</sys_updated_on>
         <table>x_daw_ticket_offic_att_events</table>
         <title>mobile</title>
-        <user display_value="adminLes Gaylor">6f3e7d0d609970005e0eeecf2e764950</user>
+        <user display_value="">6f3e7d0d609970005e0eeecf2e764950</user>
     </sys_filter>
 </record_update>

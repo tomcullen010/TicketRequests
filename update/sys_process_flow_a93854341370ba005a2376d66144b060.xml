@@ -12,7 +12,7 @@
         <sys_class_name>sys_process_flow</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2017-02-04 22:32:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a93854341370ba005a2376d66144b060</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Ticket Office Fulfillment</sys_name>

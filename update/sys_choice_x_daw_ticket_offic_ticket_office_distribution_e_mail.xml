@@ -13,10 +13,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-02 23:46:44</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2f565a8013fc3a005a2376d66144b0a2</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-02-03 03:31:24</sys_updated_on>
+            <u_translation_log_id/>
             <value>Choice 1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -31,10 +33,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-02 23:46:44</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2b565a8013fc3a005a2376d66144b0a4</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-02-03 03:31:24</sys_updated_on>
+            <u_translation_log_id/>
             <value>Choice 2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -49,10 +53,12 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-02 23:46:44</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>63565a8013fc3a005a2376d66144b0a6</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>AdminLes</sys_updated_by>
             <sys_updated_on>2017-02-03 03:31:24</sys_updated_on>
+            <u_translation_log_id/>
             <value>Choice 3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -62,7 +68,7 @@
             <sys_created_by>AdminLes</sys_created_by>
             <sys_created_on>2017-02-02 23:46:44</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>e3565a8013fc3a005a2376d66144b0a4</sys_id>
+            <sys_id>ded1e732131932001cdf5aef3244b0e2</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_name>distribution_e_mail</sys_name>
             <sys_package display_value="Ticket Office" source="x_daw_ticket_offic">9159f20e13a476005a2376d66144b0a0</sys_package>

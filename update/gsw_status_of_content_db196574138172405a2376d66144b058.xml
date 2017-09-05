@@ -5,9 +5,10 @@
         <checksum/>
         <content display_value="Add Schedules">c676bb71c32312007bf1bea192d3ae74</content>
         <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="02-17-2017 08:40:10">97196574138172405a2376d66144b058</related_log_entry>
+        <related_log_entry display_value="2017-02-17 09:40:10">97196574138172405a2376d66144b058</related_log_entry>
         <status>0</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>

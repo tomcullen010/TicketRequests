@@ -163,8 +163,9 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tom.cullen</sys_created_by>
             <sys_created_on>2017-02-04 14:28:33</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>6ec9e66413bc7a005a2376d66144b06d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Order Information</sys_name>

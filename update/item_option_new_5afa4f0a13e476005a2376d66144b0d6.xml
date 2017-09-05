@@ -18,6 +18,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <example_text/>
         <field>order_state</field>
         <global>false</global>
         <help_tag>More information</help_tag>
@@ -58,7 +59,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 22:29:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5afa4f0a13e476005a2376d66144b0d6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>State</sys_name>
@@ -86,4 +87,22 @@
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=5afa4f0a13e476005a2376d66144b0d6"/>
+    <fx_price action="delete_multiple" query="id=5afa4f0a13e476005a2376d66144b0d6"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>5afa4f0a13e476005a2376d66144b0d6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-05 19:09:55</sys_created_on>
+        <sys_id>68d4689513cd07001cdf5aef3244b0e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-05 19:09:55</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
 </record_update>

@@ -17,11 +17,13 @@
         <number_ref display_value="TIK">9cda9104137c3a005a2376d66144b0d4</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">e18a6271d13030005e0e62d7cf025b29</super_class>
+        <super_class display_value="Task" name="task">fa6e597313102200d70550f82244b080</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 21:41:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a3ff768213e476005a2376d66144b00d</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Ticket Office</sys_name>

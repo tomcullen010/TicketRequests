@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>AdminLes</sys_created_by>
         <sys_created_on>2017-01-27 22:57:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4f715fca13e476005a2376d66144b01f</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Dept Charge</sys_name>
@@ -20,9 +20,6 @@
         <sys_updated_by>AdminLes</sys_updated_by>
         <sys_updated_on>2017-01-27 23:37:54</sys_updated_on>
         <text>Dept Charge</text>
-        <u_cc_number/>
-        <u_cin/>
-        <u_expiration/>
         <value>dept_charge</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=4f715fca13e476005a2376d66144b01f"/>
